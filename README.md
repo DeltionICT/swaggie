@@ -1,6 +1,7 @@
 # Swaggie
 Simpele API met Swagger-like interface
-[Demo](https://static.edutorial.nl/projecten/swaggie/)
+* [Demo](https://static.edutorial.nl/projecten/swaggie/)
+* Inloggen met Admin/Sysop
 
 ## Backend
 * PHP

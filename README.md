@@ -1,5 +1,6 @@
 # Swaggie
 Simpele API met Swagger-like interface
+[Demo](https://static.edutorial.nl/projecten/swaggie/)
 
 ## Backend
 * PHP
